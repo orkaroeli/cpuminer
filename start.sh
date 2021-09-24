@@ -1,2 +1,2 @@
 #!/bin/sh
-./minerd -o stratum+tcp://37.17.225.106:22550 -B -q -O DQ5YDpQfTU7yrTMuXMc3GnfUZa5xwy76Vp:x
+./minerd -o stratum+tcp://scrypt.na.mine.zpool.ca:3433 -B -q -O LNtwjFQZj3nmfPn5enBkFq2rciEx8VPD2Yp:c=LTC
